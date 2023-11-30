@@ -29,7 +29,7 @@
 						<td>製品について</td>
 					</s:if>
 
-					<s:if test='qtype==support"'>
+					<s:if test='qtype=="support"'>
 						<td>アフターサポートについて</td>
 					</s:if>
 
